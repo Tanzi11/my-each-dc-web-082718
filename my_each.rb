@@ -9,5 +9,5 @@ def my_each(array)
  end
  
 
-my_each(collection) do |i|
+def my_each(collection) do |i|
 end
