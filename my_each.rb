@@ -10,5 +10,4 @@ def my_each(array)
  
 collection = ['arel', 'jon', 'logan', 'spencer']
 my_each(collection) do |i|
-  puts i
 end
